@@ -47,12 +47,12 @@ It features:
    ```bash
    git clone https://github.com/LynnBitok6391/lynn-portfolio.git
 
-2. **Navigate into the project directory:
+2. Navigate into the project directory:
 
     cd lynn-portfolio
 
 
-3. **Open the project:
+3. Open the project:
 
 Simply open index.html in your web browser
 
