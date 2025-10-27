@@ -5,7 +5,7 @@ Built with **HTML, CSS, and JavaScript**, it highlights my journey, technical ex
 
 
 ##  Live Demo
- **[View Portfolio](https://lynnbitok.netlify.app/)**  
+ **[View Portfolio](https://lynn-codes.netlify.app/)**  
 
 
 ##  About the Project
